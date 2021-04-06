@@ -1,9 +1,9 @@
 # vspw_dataset_download
 CVPR2021 VSPW dataset download links
 
-Google Drive:
+Google Drive: 
 
-Baidu YunPan:
+Baidu YunPan: https://pan.baidu.com/s/1ZaUt5bm_qyLHbllugyG3wA  密码:rz3m
 
 
 
