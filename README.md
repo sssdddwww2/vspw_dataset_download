@@ -1,7 +1,11 @@
 # vspw_dataset_download
+
+This is the entire VSPW dataset with ground truth masks and all extracted frames.
+
+
 CVPR2021 VSPW dataset download links
 
-Google Drive: 
+Google Drive: https://drive.google.com/file/d/14yHWsGneoa1pVdULFk7cah3t-THl7yEz/view?usp=sharing
 
 Baidu YunPan: https://pan.baidu.com/s/1ZaUt5bm_qyLHbllugyG3wA  密码:rz3m
 
