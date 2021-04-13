@@ -5,6 +5,8 @@ This is the entire VSPW dataset with ground truth masks and all extracted frames
 
 CVPR2021 VSPW dataset download links
 
+Web Server: ```wget http://45.77.236.48/VSPW_dataset.tar```
+
 Google Drive: https://drive.google.com/file/d/14yHWsGneoa1pVdULFk7cah3t-THl7yEz/view?usp=sharing (1 file, 43G)
 
 Google Drive: https://drive.google.com/drive/folders/1BpN3yLSCDf0kz6kP74mIrcTysI75sTwi?usp=sharing (6 files, each 8G)
