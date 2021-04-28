@@ -15,6 +15,15 @@ Baidu YunPan: https://pan.baidu.com/s/1ZaUt5bm_qyLHbllugyG3wA  密码:rz3m
 
 
 
+VSPW 480P download links:
+
+Google Drive: https://drive.google.com/file/d/1-Z_mwp_mGOlX842kerGVfA7g7a38ueKA/view?usp=sharing
+
+Baidu YunPan: 链接:https://pan.baidu.com/s/1p3HNj6_-DtnTt-aHAsSVlA  密码:akga
+
+
+
+
 ``` 
 cat VSPW_data.tar_a* > VSPW_data.tar
 tar -xvf VSPW_data.tar
